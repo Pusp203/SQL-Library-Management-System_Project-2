@@ -139,7 +139,13 @@ add constraint fk_issued_status
 foreign key (issued_id)
 references issued_status(issued_id);
 
-     ```
-  
+ ```
+Task 2: **Update an Existing Member's Address
+``` sql
+UPDATE members
+SET member_address = '125 Oak St'
+WHERE member_id = 'C103';
+      ```
+
 
 
