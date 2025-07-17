@@ -5,7 +5,7 @@
 
 #### Level: Intermediate
 
-##### Database: library_db
+##### Database: library_project_2
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
@@ -19,3 +19,13 @@ This project demonstrates the implementation of a Library Management System usin
 3.CTAS (Create Table As Select): Utilize CTAS to create new tables based on query results.
 
 4.Advanced SQL Queries: Develop complex queries to analyze and retrieve specific data.
+
+# Project Structure
+
+1. Database Setup
+
+   <img width="1101" height="631" alt="image" src="https://github.com/user-attachments/assets/cf3089ed-f78c-4350-b31b-094fffb4d63f" />
+
+   - Database Creation: Created a database named library_project_2.
+     
+ - Table Creation: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
