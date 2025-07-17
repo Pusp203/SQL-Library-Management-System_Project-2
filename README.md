@@ -140,7 +140,7 @@ foreign key (issued_id)
 references issued_status(issued_id);
 
      ```
-# 2.CRUD Operations
+2.CRUD Operations
 - Create: Inserted sample records into the books table.
 - Read: Retrieved and displayed data from various tables.
 - Update: Updated records in the employees table.
@@ -151,4 +151,4 @@ Task 1. Create a New Book Record -- "978-1-60129-456-2', 'To Kill a Mockingbird'
 INSERT INTO books(isbn, book_title, category, rental_price, status, author, publisher)
 VALUES('978-1-60129-456-2', 'To Kill a Mockingbird', 'Classic', 6.00, 'yes', 'Harper Lee', 'J.B. Lippincott & Co.');
 SELECT * FROM books;
- ```
+      ```
