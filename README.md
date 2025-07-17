@@ -1,7 +1,7 @@
 # SQL-Library-Management-System_Project-2
 Project Overview
 
-Project Title: Library Management System
+#Project Title: Library Management System
 
 Level: Intermediate
 
